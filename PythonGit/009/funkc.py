@@ -54,7 +54,7 @@ if suma:
 else:
     print('Netinkami skaiciai')
 
-# pasveikins 2 ozius
+# pasveikins 2
 def say_hi_to_two(name1, name2):
     if not name1 or not name2:
         return
