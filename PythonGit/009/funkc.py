@@ -24,7 +24,6 @@ if greetings:
 else:
     print('User not found')
 
-
 # Argumentai ir return reikšmės
 # Užduotis 2:
 # Sukurkite funkciją sudaugink(x, y), kuri priimtų du skaičius ir
