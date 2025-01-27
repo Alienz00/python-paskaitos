@@ -31,15 +31,15 @@ else:
 # 1. Iškvieskite funkciją su reikšmėmis 5 ir 10.
 # 2. Išspausdinkite grąžintą rezultatą.
 
-x = 5
-y = 10
+
 
 def sudaugink(x, y):
     daugyba = x * y
     return daugyba
 
-rezultatas = sudaugink(x, y)
+rezultatas = sudaugink(5, 10)
 print(rezultatas)
+print('................')
 
 # destytojo
 
