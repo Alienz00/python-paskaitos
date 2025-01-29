@@ -36,4 +36,4 @@ def muzika(stiliai, **kwargs):
     for stilius in stiliai:
         print(stilius, 'muzika', **kwargs)
 stiliu_sarasas = ['Techno', 'Jungle', 'Psychedelic trance']
-muzika(f'>>>, {stiliu_sarasas}, end=<<<\n')
+muzika(f'>>>, {stiliu_sarasas}, end=<<<\n') #kodel taip printina?
